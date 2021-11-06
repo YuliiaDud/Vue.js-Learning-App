@@ -1,5 +1,5 @@
 <template>
-  <the-header title='Remember Me'></the-header>
+  <the-header title='Store your favorite learning resources!'></the-header>
   <the-resources></the-resources>
 </template>
 <script>
